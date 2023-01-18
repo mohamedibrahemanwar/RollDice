@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.rolldice'
+    namespace 'com.example.myapplication222'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.example.rolldice"
+        applicationId "com.example.myapplication222"
         minSdk 24
         targetSdk 33
         versionCode 1
